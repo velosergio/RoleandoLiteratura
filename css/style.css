@@ -307,7 +307,7 @@ img.svg{
 	
 	box-sizing: border-box;
 }
-.macro_tm_top_bg_wrap .overlay_image.home{background-image: url(../img/slider/26.jpg);}
+.macro_tm_top_bg_wrap .overlay_image.home{background-image: url(../img/slider/banner.jpg);}
 .macro_tm_top_bg_wrap .overlay_color.home{background-color: rgba(0,0,0,0.5);}
 .macro_tm_top_bg_wrap .overlay_color.kenburn{background-color: rgba(0,0,0,.7);}
 .macro_tm_top_bg_wrap .top_bg_content.home{height: 100vh;}
